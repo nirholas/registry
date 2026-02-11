@@ -1,0 +1,18 @@
+# registry
+
+> JSON Registry for all the plugins in the elizaOS ecosystem
+
+## Overview
+
+registry is an open-source project by nirholas. JSON Registry for all the plugins in the elizaOS ecosystem
+
+## Repository
+
+- URL: https://github.com/nirholas/registry
+- Language: JavaScript
+- License: MIT
+- Author: nirholas
+
+## Contributing
+
+Contributions are welcome. See CONTRIBUTING.md for guidelines.

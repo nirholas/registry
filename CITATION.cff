@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use registry, please cite it as below."
+type: software
+title: "registry"
+abstract: "JSON Registry for all the plugins in the elizaOS ecosystem"
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/registry"
+url: "https://github.com/nirholas/registry"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas

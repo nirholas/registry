@@ -1,0 +1,9 @@
+# registry
+
+> JSON Registry for all the plugins in the elizaOS ecosystem
+
+## Links
+
+- Repository: https://github.com/nirholas/registry
+- Author: https://github.com/nirholas
+- Full documentation: https://raw.githubusercontent.com/nirholas/registry/main/llms-full.txt

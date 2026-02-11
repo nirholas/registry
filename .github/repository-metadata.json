@@ -1,0 +1,13 @@
+{
+    "name": "registry",
+    "description": "JSON Registry for all the plugins in the elizaOS ecosystem",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/registry",
+    "language": "JavaScript",
+    "topics": [
+        "nirholas",
+        "registry",
+        "open-source"
+    ]
+}
